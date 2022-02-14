@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.gumstack.android</groupId>
   <artifactId>sdk</artifactId>
-  <version>0.2</version>
+  <version>0.33</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -13,3 +13,4 @@
     </dependency>
   </dependencies>
 </project>
+
