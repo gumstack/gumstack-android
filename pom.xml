@@ -9,6 +9,8 @@
 
         <extensions>true</extensions>         
         <configuration>
+          <androidManifestFile>${project.basedir}/AndroidManifest.xml</androidManifestFile>
+          <resourceDirectory>${project.basedir}/res</resourceDirectory>
           <sign>
             <debug>false</debug>
           </sign>
