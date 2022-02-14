@@ -4,7 +4,6 @@
   <groupId>com.gumstack.android</groupId>
   <artifactId>sdk</artifactId>
   <version>0.33</version>
-  <packaging>aar</packaging>
   <dependencies>
     <dependency>
       <groupId>androidx.databinding</groupId>
