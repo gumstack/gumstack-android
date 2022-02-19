@@ -4,6 +4,5 @@
   <groupId>com.gumstack.android</groupId>
   <artifactId>sdk</artifactId>
   <version>0.36.0</version>
-  <packaging>aar</packaging>
   <dependencies/>
 </project>
